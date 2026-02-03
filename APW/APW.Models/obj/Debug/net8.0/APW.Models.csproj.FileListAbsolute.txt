@@ -1,0 +1,11 @@
+C:\PrograAvanzadaWeb\APW\APW.Models\obj\Debug\net8.0\APW.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrograAvanzadaWeb\APW\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfoInputs.cache
+C:\PrograAvanzadaWeb\APW\APW.Models\obj\Debug\net8.0\APW.Models.AssemblyInfo.cs
+C:\PrograAvanzadaWeb\APW\APW.Models\obj\Debug\net8.0\APW.Models.csproj.CoreCompileInputs.cache
+C:\PrograAvanzadaWeb\APW\APW.Models\bin\Debug\net8.0\APW.Models.deps.json
+C:\PrograAvanzadaWeb\APW\APW.Models\bin\Debug\net8.0\APW.Models.dll
+C:\PrograAvanzadaWeb\APW\APW.Models\bin\Debug\net8.0\APW.Models.pdb
+C:\PrograAvanzadaWeb\APW\APW.Models\obj\Debug\net8.0\APW.Models.dll
+C:\PrograAvanzadaWeb\APW\APW.Models\obj\Debug\net8.0\refint\APW.Models.dll
+C:\PrograAvanzadaWeb\APW\APW.Models\obj\Debug\net8.0\APW.Models.pdb
+C:\PrograAvanzadaWeb\APW\APW.Models\obj\Debug\net8.0\ref\APW.Models.dll

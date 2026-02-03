@@ -1,0 +1,14 @@
+C:\PrograAvanzadaWeb\APW\APW.Data\bin\Debug\net8.0\APW.Data.deps.json
+C:\PrograAvanzadaWeb\APW\APW.Data\bin\Debug\net8.0\APW.Data.runtimeconfig.json
+C:\PrograAvanzadaWeb\APW\APW.Data\bin\Debug\net8.0\APW.Data.dll
+C:\PrograAvanzadaWeb\APW\APW.Data\bin\Debug\net8.0\APW.Data.pdb
+C:\PrograAvanzadaWeb\APW\APW.Data\obj\Debug\net8.0\APW.Data.csproj.AssemblyReference.cache
+C:\PrograAvanzadaWeb\APW\APW.Data\obj\Debug\net8.0\APW.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrograAvanzadaWeb\APW\APW.Data\obj\Debug\net8.0\APW.Data.AssemblyInfoInputs.cache
+C:\PrograAvanzadaWeb\APW\APW.Data\obj\Debug\net8.0\APW.Data.AssemblyInfo.cs
+C:\PrograAvanzadaWeb\APW\APW.Data\obj\Debug\net8.0\APW.Data.csproj.CoreCompileInputs.cache
+C:\PrograAvanzadaWeb\APW\APW.Data\obj\Debug\net8.0\APW.Data.dll
+C:\PrograAvanzadaWeb\APW\APW.Data\obj\Debug\net8.0\refint\APW.Data.dll
+C:\PrograAvanzadaWeb\APW\APW.Data\obj\Debug\net8.0\APW.Data.pdb
+C:\PrograAvanzadaWeb\APW\APW.Data\obj\Debug\net8.0\APW.Data.genruntimeconfig.cache
+C:\PrograAvanzadaWeb\APW\APW.Data\obj\Debug\net8.0\ref\APW.Data.dll

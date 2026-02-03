@@ -1,0 +1,15 @@
+C:\PrograAvanzadaWeb\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\PrograAvanzadaWeb\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfoInputs.cache
+C:\PrograAvanzadaWeb\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.AssemblyInfo.cs
+C:\PrograAvanzadaWeb\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.csproj.CoreCompileInputs.cache
+C:\PrograAvanzadaWeb\APW\APW.Architecture\bin\Debug\net8.0\APW.Architecture.deps.json
+C:\PrograAvanzadaWeb\APW\APW.Architecture\bin\Debug\net8.0\APW.Architecture.dll
+C:\PrograAvanzadaWeb\APW\APW.Architecture\bin\Debug\net8.0\APW.Architecture.pdb
+C:\PrograAvanzadaWeb\APW\APW.Architecture\bin\Debug\net8.0\APW.Models.dll
+C:\PrograAvanzadaWeb\APW\APW.Architecture\bin\Debug\net8.0\APW.Models.pdb
+C:\PrograAvanzadaWeb\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.csproj.AssemblyReference.cache
+C:\PrograAvanzadaWeb\APW\APW.Architecture\obj\Debug\net8.0\APW.Arch.091626BC.Up2Date
+C:\PrograAvanzadaWeb\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.dll
+C:\PrograAvanzadaWeb\APW\APW.Architecture\obj\Debug\net8.0\refint\APW.Architecture.dll
+C:\PrograAvanzadaWeb\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.pdb
+C:\PrograAvanzadaWeb\APW\APW.Architecture\obj\Debug\net8.0\ref\APW.Architecture.dll

@@ -1,0 +1,91 @@
+﻿@using APW.Models
+
+@model IEnumerable<ProductViewModel>
+
+@{
+    ViewData["Title"] = "Product Page";
+    var productos = Model.ToList();
+}
+
+@functions {
+    public string EvaluarPar(int indice)
+    {
+        if (indice % 2 == 0)
+        {
+            return "blue";
+        }
+        else
+        {
+            return "red";
+        }
+    }
+}
+
+@functions {
+    public string EvaluarPrecio(decimal price)
+    {
+        if (price > 5)
+        {
+            return "Producto caro";
+        }
+        else if (price > 4)
+        {
+            return "Economico";
+        }
+        else
+        {
+            return "Producto barato";
+        }
+    }
+}
+
+<div class="text-center">
+
+    @{
+        int indice = 0; // contador indice para EvaluarPar
+    }
+
+    @foreach (var product in productos)
+    {
+        <div class="product-item">
+            <h2>@product.Id - @product.Name</h2>
+
+            <p>@EvaluarPrecio(product.Price)</p>
+
+            <p style="color:@EvaluarPar(indice)">
+                Price: @product.Price.ToString("C", new System.Globalization.CultureInfo("es-CR"))
+            </p>
+
+            @switch (product.CategoryName)
+            {
+                case "Beveragesop - v6":
+                    <span>Beveragesop - v6</span>
+                    break;
+
+                case "Food - v2":
+                    <span>Food - v2</span>
+                    break;
+
+                case "Snacks":
+                    <span>Snacks</span>
+                    break;
+
+                case "Dairy":
+                    <span>Dairy</span>
+                    break;
+
+                case "Electronics":
+                    <span>Electronics</span>
+                    break;
+
+                default:
+                    <span>Otra categoria</span>
+                    break;
+            }
+
+        </div>
+
+        indice++; 
+    }
+
+</div>

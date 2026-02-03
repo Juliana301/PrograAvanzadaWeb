@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "M4fgNkEtjh0b5AFYdZKOR+E4vxba0wiU5Rt1xFGGlZc=",
+  "Source": "APW.API",
+  "BasePath": "_content/APW.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

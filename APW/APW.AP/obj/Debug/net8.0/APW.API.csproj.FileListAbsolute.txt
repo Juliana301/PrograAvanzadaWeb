@@ -84,3 +84,4 @@ C:\PrograAvanzadaWeb\APW\APW.AP\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.
 C:\PrograAvanzadaWeb\APW\APW.AP\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\PrograAvanzadaWeb\APW\APW.AP\bin\Debug\net8.0\APW.Data.dll
 C:\PrograAvanzadaWeb\APW\APW.AP\bin\Debug\net8.0\APW.Data.pdb
+C:\PrograAvanzadaWeb\APW\APW.AP\obj\Debug\net8.0\APW.API.sourcelink.json

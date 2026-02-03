@@ -59,3 +59,7 @@ C:\PrograAvanzadaWeb\APW\APW.AP\obj\Debug\net8.0\staticwebassets.build.json
 C:\PrograAvanzadaWeb\APW\APW.AP\obj\Debug\net8.0\staticwebassets.build.json
 C:\PrograAvanzadaWeb\APW\APW.AP\obj\Debug\net8.0\staticwebassets.build.json
 C:\PrograAvanzadaWeb\APW\APW.AP\obj\Debug\net8.0\staticwebassets.build.json
+C:\PrograAvanzadaWeb\APW\APW.AP\obj\Debug\net8.0\staticwebassets.build.json
+C:\PrograAvanzadaWeb\APW\APW.AP\obj\Debug\net8.0\staticwebassets.build.json
+C:\PrograAvanzadaWeb\APW\APW.AP\obj\Debug\net8.0\staticwebassets.build.json
+C:\PrograAvanzadaWeb\APW\APW.AP\obj\Debug\net8.0\staticwebassets.build.json

@@ -5,6 +5,9 @@
 @{
     ViewData["Title"] = "Product Page";
     var productos = Model.ToList();
+    int indice = 0;                  // se usa para el while y mod
+    decimal totalAcumulado = 0;      // para limitar la suma
+    decimal limite = 500;
 }
 
 @functions {
@@ -39,12 +42,24 @@
     }
 }
 
-<div class="text-center">
 
-    @{
-        int indice = 0; // contador indice para EvaluarPar
+<div class="text-center">
+    <h3>Productos del while</h3>
+
+    @while (indice < productos.Count && totalAcumulado <= limite)
+    {
+        var producto = productos[indice];
+        totalAcumulado += producto.Price;
+
+        <p style="color:@EvaluarPar(indice)">
+            @producto.Name - $@producto.Price
+        </p>
+
+        indice++;
     }
 
+    <hr />
+ 
     @foreach (var product in productos)
     {
         <div class="product-item">
@@ -52,7 +67,7 @@
 
             <p>@EvaluarPrecio(product.Price)</p>
 
-            <p style="color:@EvaluarPar(indice)">
+            <p style="color:@EvaluarPar(productos.IndexOf(product))">
                 Price: @product.Price.ToString("C", new System.Globalization.CultureInfo("es-CR"))
             </p>
 
@@ -84,8 +99,5 @@
             }
 
         </div>
-
-        indice++; 
     }
-
 </div>

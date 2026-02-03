@@ -13,3 +13,4 @@ C:\PrograAvanzadaWeb\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.dll
 C:\PrograAvanzadaWeb\APW\APW.Architecture\obj\Debug\net8.0\refint\APW.Architecture.dll
 C:\PrograAvanzadaWeb\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.pdb
 C:\PrograAvanzadaWeb\APW\APW.Architecture\obj\Debug\net8.0\ref\APW.Architecture.dll
+C:\PrograAvanzadaWeb\APW\APW.Architecture\obj\Debug\net8.0\APW.Architecture.sourcelink.json

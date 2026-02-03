@@ -34,8 +34,7 @@
               "RelativeToolTip": "APW.AP\\Controllers\\ProductApiController.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAewBQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T22:06:43.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T22:06:43.55Z"
             },
             {
               "$type": "Document",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "APW.Data\\Repositories\\ProductRepository.cs",
               "ViewState": "AgIAACgAAAAAAAAAAADwvx8AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-03T22:05:19.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-03T22:05:19.25Z"
             },
             {
               "$type": "Document",
@@ -58,7 +56,7 @@
               "RelativeDocumentMoniker": "APW.Web\\Views\\Product\\Index.cshtml",
               "ToolTip": "C:\\PrograAvanzadaWeb\\APW\\APW.Web\\Views\\Product\\Index.cshtml",
               "RelativeToolTip": "APW.Web\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-03T19:01:35.735Z",
               "EditorCaption": ""

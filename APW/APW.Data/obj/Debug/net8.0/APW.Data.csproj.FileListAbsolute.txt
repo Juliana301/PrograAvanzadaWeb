@@ -12,3 +12,4 @@ C:\PrograAvanzadaWeb\APW\APW.Data\obj\Debug\net8.0\refint\APW.Data.dll
 C:\PrograAvanzadaWeb\APW\APW.Data\obj\Debug\net8.0\APW.Data.pdb
 C:\PrograAvanzadaWeb\APW\APW.Data\obj\Debug\net8.0\APW.Data.genruntimeconfig.cache
 C:\PrograAvanzadaWeb\APW\APW.Data\obj\Debug\net8.0\ref\APW.Data.dll
+C:\PrograAvanzadaWeb\APW\APW.Data\obj\Debug\net8.0\APW.Data.sourcelink.json

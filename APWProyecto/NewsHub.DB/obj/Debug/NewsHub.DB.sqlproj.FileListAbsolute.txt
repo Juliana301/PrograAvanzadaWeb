@@ -1,0 +1,6 @@
+C:\PrograAvanzadaWeb\APWProyecto\NewsHub.DB\bin\Debug\NewsHub.DB.dacpac
+C:\PrograAvanzadaWeb\APWProyecto\NewsHub.DB\bin\Debug\NewsHub.DB.dll
+C:\PrograAvanzadaWeb\APWProyecto\NewsHub.DB\bin\Debug\NewsHub.DB.pdb
+C:\PrograAvanzadaWeb\APWProyecto\NewsHub.DB\obj\Debug\NewsHub.DB.sqlproj.AssemblyReference.cache
+C:\PrograAvanzadaWeb\APWProyecto\NewsHub.DB\obj\Debug\NewsHub.DB.dll
+C:\PrograAvanzadaWeb\APWProyecto\NewsHub.DB\obj\Debug\NewsHub.DB.pdb
